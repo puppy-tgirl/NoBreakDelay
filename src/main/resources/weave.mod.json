@@ -1,0 +1,5 @@
+{
+  "mixinConfigs": [
+    "meow.mixins.json"
+  ]
+}
